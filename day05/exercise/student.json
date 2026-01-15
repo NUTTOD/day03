@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1, 
+        "name": "Messi", 
+        "score": 99,
+        "age": "21",
+        "sex": "male",
+        "address": { "country": "Argentina", "province": "Santa Fe"}
+    },
+    {
+        "id": 2, 
+        "name": "Zidane", 
+        "score": 82,
+        "age": "25",
+        "sex": "male",
+        "address": { "country": "France", "province": "Marseille"}
+    },
+    {
+        "id": 3, 
+        "name": "Suárez", 
+        "score": 88,
+        "age": "24",
+        "sex": "male",
+        "address": { "country": "Uruguay", "province": "Salto"}
+    },
+    {
+        "id": 4, 
+        "name": "Maldini", 
+        "score": 96,
+        "age": "26",
+        "sex": "male",
+        "address": { "country": "Italy", "province": "Milan"}
+    },
+    {
+        "id": 5, 
+        "name": "Rummenigge", 
+        "score": 92,
+        "age": "27",
+        "sex": "male",
+        "address": { "country": "Germany", "province": "Lippstadt"}
+    },
+    {
+        "id": 6, 
+        "name": "Iniesta", 
+        "score": 87,
+        "age": "23",
+        "sex": "male",
+        "address": { "country": "Spain", "province": "Fuentealbilla"}
+    },
+    {
+        "id": 7, 
+        "name": "Pirlo", 
+        "score": 93,
+        "age": "25",
+        "sex": "male",
+        "address": { "country": "Italy", "province": "Flero"}
+    },
+    {
+        "id": 8, 
+        "name": "Reus", 
+        "score": 90,
+        "age": "22",
+        "sex": "male",
+        "address": { "country": "Germany", "province": "Bangkok"}
+    },
+    {
+        "id": 9, 
+        "name": "Matthäus", 
+        "score": 94,
+        "age": "28",
+        "sex": "male",
+        "address": { "country": "Germany", "province": "Erlangen"}
+    },
+    {
+        "id": 10, 
+        "name": "Platini", 
+        "score": 91,
+        "age": "26",
+        "sex": "male",
+        "address": { "country": "France", "province": "Bangkok"}
+    }
+]
